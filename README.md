@@ -2,7 +2,7 @@
 
 > Advanced Spotify analytics platform demonstrating data visualization expertise and full-stack development capabilities. Features 30+ interactive visualizations, behavioral pattern analysis, and personalized listening insights.
 
-**Live Demo:** [https://listener.yourdomain.dev](https://listener.yourdomain.dev)
+**Live Demo:** [https://music.metricforge.dev](https://music.metricforge.dev)
 
 ---
 
@@ -51,7 +51,7 @@ Listener Analytics is a production-grade music analytics dashboard built to tran
 
 **1. Clone the repository**
 
-git clone https://github.com/YourUsername/Listener-Analytics.git
+git clone https://github.com/MetricForge/Listener-Analytics.git
 cd Listener-Analytics
 
 ---
