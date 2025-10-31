@@ -13,7 +13,7 @@ Listener Analytics is a production-grade music analytics dashboard built to tran
 ### Key Features
 
 - **7 Comprehensive Pages** - Overview, Artists, Tracks, Listening Patterns, Deep Dive, and Year-in-Review timeline
-- **30+ Interactive Visualizations** - Heatmaps, trend charts, session analysis, and predictive analytics
+- **20+ Interactive Visualizations** - Heatmaps, trend charts, session analysis, and predictive analytics
 - **Behavioral Pattern Analysis** - 30-minute listening rhythms, session clustering, and consistency tracking
 - **Discovery Metrics** - New artist/track discovery rate, repeat ratios, and exploration patterns
 - **Temporal Intelligence** - Time-of-day preferences, streak tracking, and velocity charts
