@@ -1,6 +1,6 @@
 # Listener Analytics - Music Intelligence Platform
 
-> Advanced Spotify analytics platform demonstrating data visualization expertise and full-stack development capabilities. Features 30+ interactive visualizations, behavioral pattern analysis, and personalized listening insights.
+> Advanced Spotify analytics platform demonstrating data visualization expertise and full-stack development capabilities. Features 20+ interactive visualizations, behavioral pattern analysis, and personalized listening insights.
 
 **Live Demo:** [https://music.metricforge.dev](https://music.metricforge.dev)
 
